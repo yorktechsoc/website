@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'York TechSoc',
+  tagline: 'Live Event Design, Install and Operation',
+  url: 'https://yorktechsoc.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yorktechsoc', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -34,18 +34,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,22 +47,40 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'York TechSoc',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'York TechSoc Logo',
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/', label: 'Home', position: 'left'},
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '/category/our-venues',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Our Venues',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'hire',
+            position: 'left',
+            label: 'Work With Us',
+          },
+          {
+            type: 'doc',
+            docId: 'resources/index',
+            position: 'left',
+            label: 'Member Resources',
+          },
+          {
+            type: 'doc',
+            docId: 'get-involved',
+            position: 'left',
+            label: 'Get Involved',
+          },
+          {
+            href: 'https://yusu.org/activities/view/technical-theatre-society',
+            label: 'Society Pages',
             position: 'right',
           },
         ],
@@ -81,46 +89,55 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Social Media',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/yorktechsoc/',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/uoytechsoc/',
+              },
+              {
+                label: 'Slack',
+                href: 'https://join.slack.com/t/yorktechsoc/shared_invite/zt-1df8p8flv-fqj2an8oJEx0n50Bjz~g~Q',
+              }
+            ],
+          },
+          
+          {
+            title: 'Venues',
+            items: [
+              {
+                label: 'Dixon Drama Studio',
+                to: '/docs/venues/dixon',
+              },
+              {
+                label: 'Central Hall',
+                to: '/docs/venues/central-hall',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'With Thanks to',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YUSU',
+                href: 'https://yusu.org/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'YUFUND',
+                href: 'https://www.york.ac.uk/york-unlimited/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'UoY AV',
+                to: '/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} York TechSoc`,
       },
       prism: {
         theme: lightCodeTheme,
