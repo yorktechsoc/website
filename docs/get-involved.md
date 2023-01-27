@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Get Involved
 ---
 
-## Welcome to Techsoc!
+## Welcome to TechSoc!
 
 ### Slack
 Our primary communication method in the society is Slack. You can use our [signup link (here)](https://join.slack.com/t/yorktechsoc/shared_invite/zt-1df8p8flv-fqj2an8oJEx0n50Bjz~g~Q) to join, or create an account with your Uni of York email, and add us by [joining other workspaces here](https://slack.com/get-started#/).
