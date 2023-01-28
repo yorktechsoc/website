@@ -33,9 +33,13 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'src/docs',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
+        pages:{
+          path: 'src/pages'
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -46,6 +50,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'wip',
+        content:
+          'We\'re having a bit of a makeover! Please excuse us whilst we update our website.',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
       navbar: {
         title: 'York TechSoc',
         logo: {
@@ -53,36 +65,51 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/', label: 'Home', position: 'left'},
           {
-            type: 'doc',
-            docId: '/category/our-venues',
-            position: 'left',
-            label: 'Our Venues',
-          },
-          {
-            type: 'doc',
-            docId: 'hire',
-            position: 'left',
             label: 'Work With Us',
+            to: 'hire', 
+            position:'right'
           },
           {
+            label: 'Where We Work',
             type: 'doc',
-            docId: 'resources/index',
-            position: 'left',
+            docId: '/category/where-we-work',
+            position: 'right'
+          },
+          {
             label: 'Member Resources',
-          },
-          {
-            type: 'doc',
-            docId: 'get-involved',
-            position: 'left',
-            label: 'Get Involved',
-          },
-          {
-            href: 'https://yusu.org/activities/view/technical-theatre-society',
-            label: 'Society Pages',
+            type: 'dropdown',
+            to: 'resources',
             position: 'right',
+            items: [
+              {
+                label: 'Upcoming Events',
+                to: 'resources/events'
+              },
+              {
+                label: 'Venue Information',
+                type: 'doc',
+                docId: '/category/technical-information',
+              },
+              {
+                label: 'AdamRMS',
+                href: 'https://dash.adam-rms.com'
+              }
+            ]
           },
+          {
+            label: 'Get Involved',
+            to: 'get-involved',
+            type: 'dropdown',
+            position: 'right',
+            items: [
+              {
+                href: 'https://yusu.org/activities/view/technical-theatre-society',
+                label: 'Society Pages',
+              },
+            ]
+          },
+          
         ],
       },
       footer: {
