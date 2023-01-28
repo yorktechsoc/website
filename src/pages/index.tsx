@@ -30,7 +30,7 @@ export default function Home(): JSX.Element {
                 <div className={styles.buttons}>
                   <Link
                     className="button button--secondary button--lg"
-                    to="/docs/get-involved">
+                    to="/get-involved">
                     Get Involved
                   </Link>
                 </div>
@@ -42,7 +42,7 @@ export default function Home(): JSX.Element {
                 <div className={styles.buttons}>
                   <Link
                     className="button button--secondary button--lg"
-                    to="/docs/hire">
+                    to="/hire">
                     Work with Us
                   </Link>
                 </div>
