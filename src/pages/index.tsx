@@ -3,6 +3,12 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Navigation, Pagination, A11y } from 'swiper';
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
 
 import styles from './index.module.css';
 
@@ -49,6 +55,36 @@ export default function Home(): JSX.Element {
               </div>
             </div>
           </div>
+        </section>
+        {/* Pictures */}
+        <section className="container text--center padding-vert--md">
+          <Swiper
+            modules={[Navigation, Pagination, A11y]}
+            spaceBetween={50}
+            slidesPerView={1}
+            navigation
+            pagination={{ clickable: true }}
+            className="swiper-container"
+          >
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/302-I24A1238.jpg" alt="Three society members operating at an event" loading='lazy'/>
+            </SwiperSlide>
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/IMG_1178.JPG" alt="Dance Society Competition 2022" loading='lazy'/>
+            </SwiperSlide>
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/IMG_1483.JPG" alt="CHMS' 9to5 2022" loading='lazy' />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/IMG_1826.JPG" alt="Central Hall" loading='lazy' />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/IMG_3081.JPG" alt="A Training Session" loading='lazy' />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img className="swiper-image" src="/img/homepage/IMG_7661.JPG" alt="Central Hall" loading='lazy' />
+            </SwiperSlide>
+          </Swiper>
         </section>
         {/* About */}
         <section className={styles.features}>

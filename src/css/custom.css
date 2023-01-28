@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #82cbff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.swiper-container {
+  width: 75vw;
+  height: 500px;
+}
+
+.swiper-image {
+  width: 75vw;
+  height: 500px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
