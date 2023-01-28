@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
 title: Central Hall
-image: https://i.imgur.com/mErPwqL.png
-
+image: /img/homepage/IMG_7661.jpg
 ---
 
 At the heart of Campus West, Central Hall is the University's largest venue and can be configured in a variety of layouts to suit your event. Although the venue is managed by AV services at York, TechSoc works closely with their team to provide a wide range of technical capabilities and will handle any technical challenges in the venue.
@@ -57,4 +56,6 @@ Our standard package for the venue is as follows:
 ### Additional Equipment
 Other equipment can be included such as a Cue Light system and additional wireless microphones. We will also arrange any changes of staging if you would like them, although we can’t arrange changes of seating layout which should be booked through the Room Bookings Team. 
 
+
+## Costs
 The current cost of working in Central Hall is £70 for single day events, with a £10 charge for each additional day. Any changes to our standard setup should be discussed with your TechSoc Project Manager early in the creative process, as there may be additional costs involved.
