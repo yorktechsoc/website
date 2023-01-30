@@ -59,3 +59,28 @@ Other equipment can be included such as a Cue Light system and additional wirele
 
 ## Costs
 The current cost of working in Central Hall is £70 for single day events, with a £10 charge for each additional day. Any changes to our standard setup should be discussed with your TechSoc Project Manager early in the creative process, as there may be additional costs involved.
+
+---
+
+## Checklist for working with us in CH
+
+### Inital Steps
+These must be completed _at least_ 4-6 Weeks before your event
+- [ ] Read the guidance on [YUSU Events](https://docs.google.com/document/d/1SNRtSgzTySJQveuUiMviR5qNSS9OmABUzF8ZRca03_U/edit#heading=h.g1p9kclnb07m)
+- [ ] Confirm Room Bookings
+- [ ] Create and ticket your event through SUMS
+- [ ] Submit [EMFs](https://yusu.org/emf) for **each** day you are in Central Hall. This includes any rehearsals or visits to the space.
+- [ ] Send an initial TechSoc booking request to [techsoc@yusu.org](mailto:techsoc@yusu.org)
+
+### Once we get back in touch
+We'll get in touch as soon as possible with your request (we aim to respond within 4 working days), and will get you in touch with one of our committee who will be your TechSoc Project Manager - They'll be your lead contact for your event from our society.
+
+- [ ] Send copies of all EMFs to [techsoc-project-manager@yusu.org](mailto:techsoc-project-manager@yusu.org)
+- [ ] Submit show specific Risk Assessment with your SUMS event, and email this to [techsoc-project-manager@yusu.org](mailto:techsoc-project-manager@yusu.org)
+- [ ] Arrange regular meetings with your TechSoc Project Manager with requirements for your event.
+- [ ] Send a running order or script to [techsoc-project-manager@yusu.org](mailto:techsoc-project-manager@yusu.org) as soon as it is finalised.
+- [ ] Discuss any potential changes to the venue with your Project Manager - the earlier, the better!
+
+### One week before your event
+- [ ] Confirm running order/rehearsal schedule/final hires with your Project Manager
+- [ ] Confirm any special requests for the venue, inc. Equipment, Layout Changes and timings.
