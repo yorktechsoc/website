@@ -1,6 +1,6 @@
 # York TechSoc Website
 
-A [Docusaurus 2](https://docusaurus.io/) website for the University of York's Technical Theatre Society.
+A [Docusaurus 2](https://docusaurus.io/) website for the University of York's Technical Theatre Society. It is automatically built using GitHub actions.
 
 ### Installation
 
