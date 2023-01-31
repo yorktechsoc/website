@@ -159,7 +159,7 @@ const config = {
               },
               {
                 label: 'UoY AV',
-                to: '/',
+                to: 'https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/audio-visual/',
               },
             ],
           },
