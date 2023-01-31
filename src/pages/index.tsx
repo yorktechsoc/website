@@ -64,25 +64,26 @@ export default function Home(): JSX.Element {
             slidesPerView={1}
             navigation
             pagination={{ clickable: true }}
+            loop={true}
             className="swiper-container"
           >
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/302-I24A1238.jpg" alt="Three society members operating at an event" loading='lazy'/>
+              <img className="swiper-image" src="/img/homepage/swingdance.jpg" alt="Three society members operating at an event" loading='lazy'/>
             </SwiperSlide>
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/IMG_1178.JPG" alt="Dance Society Competition 2022" loading='lazy'/>
+              <img className="swiper-image" src="/img/homepage/dancecomp.jpg" alt="Dance Society Competition 2022" loading='lazy'/>
             </SwiperSlide>
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/IMG_1483.JPG" alt="CHMS' 9to5 2022" loading='lazy' />
+              <img className="swiper-image" src="/img/homepage/9to5.jpg" alt="CHMS' 9to5 2022" loading='lazy' />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/IMG_1826.JPG" alt="Central Hall" loading='lazy' />
+              <img className="swiper-image" src="/img/homepage/CH_01.jpg" alt="Central Hall" loading='lazy' />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/IMG_3081.JPG" alt="A Training Session" loading='lazy' />
+              <img className="swiper-image" src="/img/homepage/training.jpg" alt="A Training Session" loading='lazy' />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="swiper-image" src="/img/homepage/IMG_7661.JPG" alt="Central Hall" loading='lazy' />
+              <img className="swiper-image" src="/img/homepage/CH_02.jpg" alt="Central Hall" loading='lazy' />
             </SwiperSlide>
           </Swiper>
         </section>
