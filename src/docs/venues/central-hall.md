@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Central Hall
-image: /img/homepage/IMG_7661.jpg
+image: /img/homepage/CH_01.jpg
 ---
 
 At the heart of Campus West, Central Hall is the University's largest venue and can be configured in a variety of layouts to suit your event. Although the venue is managed by AV services at York, TechSoc works closely with their team to provide a wide range of technical capabilities and will handle any technical challenges in the venue.
