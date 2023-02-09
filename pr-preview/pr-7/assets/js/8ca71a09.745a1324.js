@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechsoc_website=self.webpackChunktechsoc_website||[]).push([[512],{7616:e=>{e.exports=JSON.parse('{"title":"Where We Work","slug":"/category/where-we-work","permalink":"/docs/category/where-we-work","navigation":{"next":{"title":"Dixon Drama Studio","permalink":"/docs/venues/dixon"}}}')}}]);
