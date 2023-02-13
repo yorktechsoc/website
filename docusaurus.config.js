@@ -66,8 +66,8 @@ const config = {
         },
         items: [
           {
-            label: 'Work With Us',
-            to: 'hire', 
+            label: 'Collaborate With Us',
+            to: 'collaborate', 
             position:'right'
           },
           {
