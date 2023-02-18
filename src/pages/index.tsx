@@ -48,7 +48,7 @@ export default function Home(): JSX.Element {
                 <div className={styles.buttons}>
                   <Link
                     className="button button--secondary button--lg"
-                    to="/hire">
+                    to="/collaborate">
                     Work with Us
                   </Link>
                 </div>
