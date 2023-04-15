@@ -23,3 +23,11 @@ $ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Spellchecking
+
+```
+$ npm run spellcheck
+```
+
+You might want to update `cpsell.json` for any words it is struggling with.

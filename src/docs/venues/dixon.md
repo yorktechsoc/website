@@ -9,7 +9,7 @@ TechSoc has been based in the Dixon since 2020. It's where we store all our equi
 Room bookings for the main space are handled by the University Room Bookings team - for bigger productions it's normally advisable to try to plan a year in advance. Smaller bookings (such as for a one night charity fashion show) can be made [online](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/space-services/studentroombooking/). Once you've secured a room booking please get in touch with us to start to make plans for your event!
 
 ## Venue Capacity
-For dance floor, venue for music and similar events (and bar areas without fixed seating) the **maximum occupancy is 220**. The capacity of the space is goverened by the number of exits and the floor area.
+For dance floor, venue for music and similar events (and bar areas without fixed seating) the **maximum occupancy is 220**. The capacity of the space is governed by the number of exits and the floor area.
 
 For seated events (such as conferences/theatre shows/meetings) the **maximum occupancy is 174** including cast and crew.
 
@@ -56,18 +56,18 @@ The largest dressing room, with access to the stage via Dressing Room B as well 
 - Single Sink
 - 2x Full Height Fixed Costume Rails
 
-### Alummni Lounge
+### Alumni Lounge
 ![Dixon Drama Studio Alumni Lounge](/img/docs/venues/dixon/alumni-lounge.jpeg)
 Used by TechSoc as a planning office day-to-day. Its proximity to the Control Room also makes it an ideal place for producers and crew to base themselves
 - 5.4m x 3.2m
-- Retractable blackout blind to seperate it from the control room space as needed
+- Retractable blackout blind to separate it from the control room space as needed
 - Gap in wall to allow cables to be passed through wall from Control Room, with the door closed
 
 ### Control Room
 ![Dixon Drama Studio Control Room](/img/docs/venues/dixon/control-room.jpeg)
 The hub of activity during performances, it's also where we host most of our training sessions 
 - 6m x 3.5m
-- Retractable blackout blinds and closable soundproof windows to seperate it from the main space as needed
+- Retractable blackout blinds and closable soundproof windows to separate it from the main space as needed
 - Seating for 3 operators, plus 2 assistants
 - Additional desk seat position, without window
 - Show relay speaker 
