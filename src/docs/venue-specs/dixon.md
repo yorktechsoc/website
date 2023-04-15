@@ -10,7 +10,7 @@ title: Dixon Drama Studio
 - [Grid channel layout](/files/Dixon-grid-layout.pdf)
 - Selectable & dimmable permanent house lighting units
 - 4no. 5-pin DMX distribution at low-level facility panels
-- 1no. ETC Nomad kit (pending availabilty within the society)
+- 1no. ETC Nomad kit (pending availability within the society)
 - Access to TechSoc's lantern stock
 
 ### Audio

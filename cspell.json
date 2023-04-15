@@ -1,0 +1,17 @@
+{
+    "version": "0.2",
+    "language": "en_GB",
+    "words": [
+        "TechSoc",
+        "YUSU",
+        "signup",
+        "followspots",
+        "powerpoints",
+        "sharktooth"
+    ],
+    "ignorePaths": [
+        "node_modules/**",
+        "build/**"
+    ],
+    "useGitignore": true   
+}
