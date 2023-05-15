@@ -71,6 +71,12 @@ const config = {
             position:'right'
           },
           {
+            label: 'Our Equipment',
+            type: 'doc',
+            docId: '/category/our-equipment',
+            position: 'right'
+          },
+          {
             label: 'Where We Work',
             type: 'doc',
             docId: '/category/where-we-work',
@@ -108,8 +114,7 @@ const config = {
                 label: 'Society Pages',
               },
             ]
-          },
-          
+          }
         ],
       },
       footer: {
