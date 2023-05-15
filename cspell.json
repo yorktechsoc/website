@@ -8,7 +8,10 @@
         "followspots",
         "powerpoints",
         "sharktooth",
-        "CHMS"
+        "CHMS",
+        "auxes",
+        "flexsys",
+        "eurolive"
     ],
     "ignorePaths": [
         "node_modules/**",
