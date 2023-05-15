@@ -30,4 +30,4 @@ This command generates static content into the `build` directory and can be serv
 $ npm run spellcheck
 ```
 
-You might want to update `cpsell.json` for any words it is struggling with.
+You might want to update `cspell.json` for any words it is struggling with.
