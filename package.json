@@ -27,7 +27,7 @@
     "swiper": "^9.2.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.3.0",
+    "@docusaurus/module-type-aliases": "^2.4.1",
     "@tsconfig/docusaurus": "^1.0.7",
     "cspell": "^6.31.1",
     "typescript": "^5.0.4"
