@@ -1,33 +1,21 @@
 # York TechSoc Website
 
-A [Docusaurus 2](https://docusaurus.io/) website for the University of York's Technical Theatre Society. It is automatically built using GitHub actions.
+A [Docusaurus 2](https://docusaurus.io/) website for the University of York's Technical Theatre Society. It is automatically built using GitHub actions and deployed GitHub pages. The site is available at [yorktechsoc.org](https://yorktechsoc.org).
 
-### Installation
+## Setup
 
-```
-$ npm install
-```
+To run the site locally, you will need to install [Node.js](https://nodejs.org/en/). Then, in the root directory of the project, run:
 
-### Local Development
-
-```
-$ npm start
+```console
+npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This will install the required dependencies, including a spellchecker and prettier. To run the site locally, run:
 
-### Build
-
-```
-$ npm run build
+```console
+npm run start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Contributing
 
-## Spellchecking
-
-```
-$ npm run spellcheck
-```
-
-You might want to update `cspell.json` for any words it is struggling with.
+If you'd like to contribute, check out the existing pages for some inspiration. You can also check out the [Docusaurus documentation](https://docusaurus.io/docs) for more information on how to use Docusaurus. In future we'd like to add some documentation on our equipment and how to use it, so if you have any experience with our equipment, please do add some pages!
