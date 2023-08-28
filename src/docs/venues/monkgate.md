@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Theatre@41
+title: Monkgate Theatre@41
 ---
 
 TechSoc has worked with Theatre@41 for a number of years now to mainly to support CHMS productions, it is a venue that we enjoy working in and gives the performing company lots of flexibility in how they choose to use the space, perfect for most medium audience events from Comedy Nights to Musicals.
