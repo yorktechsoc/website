@@ -18,5 +18,5 @@
         "node_modules/**",
         "build/**"
     ],
-    "useGitignore": true   
+    "useGitignore": true
 }
