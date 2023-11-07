@@ -1,22 +1,21 @@
 {
-    "version": "0.2",
-    "language": "en_GB",
-    "words": [
-        "TechSoc",
-        "YUSU",
-        "YSTV",
-        "signup",
-        "followspots",
-        "powerpoints",
-        "sharktooth",
-        "CHMS",
-        "auxes",
-        "flexsys",
-        "eurolive"
-    ],
-    "ignorePaths": [
-        "node_modules/**",
-        "build/**"
-    ],
-    "useGitignore": true
+  "version": "0.2",
+  "language": "en_GB",
+  "words": [
+    "TechSoc",
+    "YUSU",
+    "YSTV",
+    "signup",
+    "followspots",
+    "powerpoints",
+    "sharktooth",
+    "CHMS",
+    "auxes",
+    "flexsys",
+    "eurolive",
+    "yorktechsoc",
+    "Monkgate"
+  ],
+  "ignorePaths": ["node_modules/**", "build/**"],
+  "useGitignore": true
 }
