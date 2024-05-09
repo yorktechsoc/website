@@ -36,7 +36,7 @@ We also have various conventional fixtures which can be connected to one of our 
 - [Par64s](https://www.pulse-audio.co.uk/product/par64l-bk/)
 - [Rama Fresnels](https://www.theatrecrafts.com/archive/documents/rama_150_fft_fresnel.pdf)
 - [Source Four Jr Zooms](https://www.etcconnect.com/WorkArea/DownloadAsset.aspx?id=10737459979)
-- [Starelette 1000 Fresnels](https://www.theatrecrafts.com/archive/documents/cct/starlette1000fresnel_1984.pdf)
+- [Starlette 1000 Fresnels](https://www.theatrecrafts.com/archive/documents/cct/starlette1000fresnel_1984.pdf)
 - [Turbo Silhouette Profiles](https://www.theatrecrafts.com/archive/documents/cct_turbo_and_silhouette_range.pdf)
 
 ## Control Systems
