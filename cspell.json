@@ -14,7 +14,15 @@
     "flexsys",
     "eurolive",
     "yorktechsoc",
-    "Monkgate"
+    "Monkgate",
+    "Lumi",
+    "UQPRO",
+    "RGBA",
+    "Showtec",
+    "Fresnels",
+    "Minuette",
+    "Starlette",
+    "Alphapack"
   ],
   "ignorePaths": ["node_modules/**", "build/**"],
   "useGitignore": true
