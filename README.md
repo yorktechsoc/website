@@ -2,6 +2,10 @@
 
 A [Docusaurus 2](https://docusaurus.io/) website for the University of York's Technical Theatre Society. It is automatically built using GitHub actions and deployed GitHub pages. The site is available at [yorktechsoc.org](https://yorktechsoc.org).
 
+## Hosting
+
+The website is hosted on [Cloudflare Pages](https://pages.cloudflare.com/); on the YorkTechSoc CloudFlare account, this brings it in line with the Wiki.
+
 ## Setup
 
 To run the site locally, you will need to install [Node.js](https://nodejs.org/en/). Then, in the root directory of the project, run:
