@@ -54,7 +54,7 @@ export default function Home(): JSX.Element {
               <div className={clsx("col col--6")}>
                 <h3>Our Services</h3>
                 <p>
-                  We run the technical side of events by YUSU Society and
+                  We run the technical side of events by YorkSU Society and
                   Colleges with anything from theatre and presentations to dance
                   and live music.
                 </p>

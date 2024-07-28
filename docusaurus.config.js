@@ -147,7 +147,7 @@ const config = {
             title: "With Thanks to",
             items: [
               {
-                label: "YUSU",
+                label: "YorkSU",
                 href: "https://yusu.org/",
               },
               {
