@@ -102,7 +102,7 @@ const config = {
             position: "right",
             items: [
               {
-                href: "https://yusu.org/activities/view/technical-theatre-society",
+                href: "https://yorksu.org/activities/view/technical-theatre-society",
                 label: "Society Pages",
               },
             ],
@@ -148,7 +148,7 @@ const config = {
             items: [
               {
                 label: "YorkSU",
-                href: "https://yusu.org/",
+                href: "https://yorksu.org/",
               },
               {
                 label: "YUFUND",

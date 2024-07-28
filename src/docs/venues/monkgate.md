@@ -17,4 +17,4 @@ Finally the space has 2 small dressing rooms at stage level, they are not the mo
 ## The Space
 
 This is a unique theatre space for all types of performance and larger rehearsals. The standard seating configuration is end-on. However, the staging blocks which create the raised seating area are not fixed, and the theatre is ideal for use in a variety of configurations. The space measures 10.51m x 15.72m
-The Theatre@41 team have a fantastic technical [wiki](https://sites.google.com/41monkgate.co.uk/technicalwiki/) detailing the technical specification of the space, but in summary it is a fun flexible venue that can take all types of shows and TechSoc always enjoys working in the space, if you have any questions for us feel free to email [techsoc@yusu.org](mailto:techsoc@yusu.org)
+The Theatre@41 team have a fantastic technical [wiki](https://sites.google.com/41monkgate.co.uk/technicalwiki/) detailing the technical specification of the space, but in summary it is a fun flexible venue that can take all types of shows and TechSoc always enjoys working in the space, if you have any questions for us feel free to email [techsoc@yorksu.org](mailto:techsoc@yorksu.org)

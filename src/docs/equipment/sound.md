@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Sound
 ---
 
-TechSoc has a large stock of sound equipment that is available for hire. We have a range of microphones, speakers, amplifiers, and mixing desks. We also have a range of audio cables and stands available for hire. For a fully up to date list, including prices and availability, please don't hesitate to get in touch with [techsoc@yusu.org](mailto:techsoc@yusu.org).
+TechSoc has a large stock of sound equipment that is available for hire. We have a range of microphones, speakers, amplifiers, and mixing desks. We also have a range of audio cables and stands available for hire. For a fully up to date list, including prices and availability, please don't hesitate to get in touch with [techsoc@yorksu.org](mailto:techsoc@yorksu.org).
 
 ## Mixing Desks
 

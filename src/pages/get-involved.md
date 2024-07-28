@@ -19,6 +19,6 @@ To sign up, head to https://dash.adam-rms.com/, log in with your University emai
 
 ### Membership
 
-To get involved with our events, we ask that you get membership. This supports the society and allows us to apply for grants to get more equipment. This can be purchased from YorkSU’s website: https://yusu.org/activities/view/technical-theatre-society
+To get involved with our events, we ask that you get membership. This supports the society and allows us to apply for grants to get more equipment. This can be purchased from YorkSU’s website: https://yorksu.org/activities/view/technical-theatre-society
 
-More information about memberships can be found here: https://support.yusu.org/
+More information about memberships can be found here: https://support.yorksu.org/
