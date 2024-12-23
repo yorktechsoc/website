@@ -3,11 +3,11 @@ sidebar_position: 1
 title: Dixon Drama Studio
 ---
 
-TechSoc has been based in the Dixon since 2020. It's where we store all our equipment, predominantly offer our training, and where we often tech shows for other societies. It's part of the main Wentworth building on Campus West next to Biology and Environment as well as a stones throw away from other venues we work in such as Central Hall and the Rodger Kirk Centre.
+TechSoc was based in the Dixon from 2020 until December 2024. During this time, it served as the hub for storing our equipment, offering training sessions, and supporting shows for other societies. Located in the main Wentworth building on Campus West, next to Biology and Environment, it was also conveniently close to venues we frequently worked in, such as Central Hall and the Roger Kirk Centre. The building has been closed, pending demolition so this information is here for posterity.
 
 ## Booking the Venue
 
-Room bookings for the main space are handled by the University Room Bookings team - for bigger productions it's normally advisable to try to plan a year in advance. Smaller bookings (such as for a one night charity fashion show) can be made [online](https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/space-services/studentroombooking/). Once you've secured a room booking please get in touch with us to start to make plans for your event!
+As of December 2024, it is no longer available to book as the building has been mothballed.
 
 ## Venue Capacity
 
