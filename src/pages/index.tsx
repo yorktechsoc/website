@@ -89,8 +89,24 @@ export default function Home(): JSX.Element {
             <SwiperSlide>
               <img
                 className="swiper-image"
-                src="/img/homepage/swingdance.jpg"
-                alt="Three society members operating at an event"
+                src="/img/homepage/Activities25.jpg"
+                alt="Activities award 2025"
+                loading="lazy"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img
+                className="swiper-image"
+                src="/img/homepage/Drive in movie.jpg"
+                alt="CHMS' production of Grease 2025"
+                loading="lazy"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img
+                className="swiper-image"
+                src="/img/homepage/GreaseSignage.jpg"
+                alt="Making signs for Grease"
                 loading="lazy"
               />
             </SwiperSlide>
@@ -105,8 +121,8 @@ export default function Home(): JSX.Element {
             <SwiperSlide>
               <img
                 className="swiper-image"
-                src="/img/homepage/9to5.jpg"
-                alt="CHMS' 9to5 2022"
+                src="/img/homepage/JCS.jpg"
+                alt="CHMS' JCS 2025"
                 loading="lazy"
               />
             </SwiperSlide>
@@ -121,16 +137,32 @@ export default function Home(): JSX.Element {
             <SwiperSlide>
               <img
                 className="swiper-image"
-                src="/img/homepage/training.jpg"
-                alt="A Training Session"
+                src="/img/homepage/RosesOpening25.jpg"
+                alt="Roses Opening Ceremony 2025"
                 loading="lazy"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
                 className="swiper-image"
-                src="/img/homepage/CH_02.jpg"
-                alt="Central Hall"
+                src="/img/homepage/RosesYBLS25.jpg"
+                alt="Roses Ballroom and Latin 2025"
+                loading="lazy"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img
+                className="swiper-image"
+                src="/img/homepage/RosesMMA25.jpg"
+                alt="Central Hall for Roses 2025"
+                loading="lazy"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <img
+                className="swiper-image"
+                src="/img/homepage/LYA25.jpg"
+                alt="Techsoc at Love York Awards 2025"
                 loading="lazy"
               />
             </SwiperSlide>
