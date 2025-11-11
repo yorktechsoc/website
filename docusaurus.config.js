@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: "Slack",
-                href: "https://join.slack.com/t/yorktechsoc/shared_invite/zt-1df8p8flv-fqj2an8oJEx0n50Bjz~g~Q",
+                href: "https://yorktechsoc.slack.com/"
               },
             ],
           },
@@ -156,10 +156,19 @@ const config = {
               },
               {
                 label: "UoY AV",
-                to: "https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/audio-visual/",
+                href: "https://www.york.ac.uk/about/departments/support-and-admin/estates-and-campus-services/audio-visual/",
               },
             ],
           },
+	  {
+	    title: "Disclaimer",
+	    items: [
+		{
+		    label: "Disclaimer",
+		    to: "/disclaimer"
+		}
+	    ]
+	  },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} York TechSoc`,
       },
